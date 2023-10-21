@@ -16,7 +16,7 @@
     
 ## About This Project
 
-![Screen Shot](https://mdhasanmahmud.000webhostapp.com/inappupdate/autolinkthum.png)
+![Screen Shot](https://mdhasanmahmud.000webhostapp.com/inappupdate/bitlocker.png)
 
 ## In Co-operation
 
