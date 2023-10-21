@@ -7,7 +7,7 @@
   <h2 align="center">Computer Drive Locker</h2>
 
   <p align="center">
-    ভিডিও দেখার জন্য, নিচের ভিডিও টিউটোরিয়াল (Video Tutorial) বাটনে ক্লিক করুন
+    সম্পূর্ণ ভিডিও দেখার জন্য, নিচের ভিডিও টিউটোরিয়াল (Video Tutorial) বাটনে ক্লিক করুন
     <br/>
     <br/>
     <a href="https://youtu.be/iUQBQk8PBfc"><strong> Video Tutorial »</strong></a>
