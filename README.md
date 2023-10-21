@@ -1,10 +1,10 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/AppBondTech/Implement_AutoLink">
+  <a href="https://github.com/AppBondTech/BitLocker_DriveLock">
     <img src="https://mdhasanmahmud.000webhostapp.com/inappupdate/youtubelogo.png" alt="Logo" width="150" height="150">
   </a>
 
-  <h2 align="center">Implement_Auto Link</h2>
+  <h2 align="center">Computer Drive Locker</h2>
 
   <p align="center">
     ভিডিও দেখার জন্য, নিচের ভিডিও টিউটোরিয়াল (Video Tutorial) বাটনে ক্লিক করুন
