@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/AppBondTech/BitLocker_DriveLock">
-    <img src="https://mdhasanmahmud.000webhostapp.com/inappupdate/bitlocker.png" alt="Logo" width="150" height="150">
+    <img src="https://mdhasanmahmud.000webhostapp.com/inappupdate/appbondtech.jpg" alt="Logo" width="150" height="150">
   </a>
 
   <h2 align="center">Computer Drive Locker</h2>
